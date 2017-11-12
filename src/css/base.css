@@ -1,0 +1,16 @@
+.cover-image {
+    background: url(../img/flower-rose-macro-nature-676016_50.jpeg) center center;
+    background-size: cover;
+}
+
+.title-block {
+    text-align: right;
+}
+
+.title-block .title {
+    color: white;
+}
+
+.title-block .subtitle {
+    color: white;
+}
